@@ -1,0 +1,7 @@
+anthropic
+pymupdf
+python-docx
+streamlit
+python-dotenv
+Pillow
+```
