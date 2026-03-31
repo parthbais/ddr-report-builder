@@ -1,7 +1,6 @@
-anthropic
+google-generativeai
 pymupdf
 python-docx
 streamlit
 python-dotenv
 Pillow
-```
