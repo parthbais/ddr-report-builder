@@ -1,4 +1,4 @@
-# AI DDR Report Generator
+# AI DDR Generator
 
 ## 📌 Overview
 This project converts inspection and thermal reports into a structured DDR (Detailed Diagnostic Report) using AI. It leverages modern LLMs (like LLaMA 3 70B via Groq) to synthesize complex physical and thermal diagnostic data into professional, client-ready Word documents.
